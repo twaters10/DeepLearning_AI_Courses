@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276748476805243944/9fb35b235f3a449fba89ddced685a4c9/artifacts
+end_time: 1752699848095
+entry_point_name: ''
+experiment_id: '276748476805243944'
+lifecycle_stage: active
+run_id: 9fb35b235f3a449fba89ddced685a4c9
+run_name: likeable-mare-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752699843005
+status: 4
+tags: []
+user_id: tawate

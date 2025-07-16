@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276748476805243944/22ae1ed50d724270b87bcc67c4b1fcf6/artifacts
+end_time: 1752700634670
+entry_point_name: ''
+experiment_id: '276748476805243944'
+lifecycle_stage: active
+run_id: 22ae1ed50d724270b87bcc67c4b1fcf6
+run_name: adventurous-sow-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752700102291
+status: 3
+tags: []
+user_id: tawate

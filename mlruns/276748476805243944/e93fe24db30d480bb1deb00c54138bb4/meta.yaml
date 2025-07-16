@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276748476805243944/e93fe24db30d480bb1deb00c54138bb4/artifacts
+end_time: 1752703382780
+entry_point_name: ''
+experiment_id: '276748476805243944'
+lifecycle_stage: active
+run_id: e93fe24db30d480bb1deb00c54138bb4
+run_name: receptive-skunk-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752702927204
+status: 3
+tags: []
+user_id: tawate

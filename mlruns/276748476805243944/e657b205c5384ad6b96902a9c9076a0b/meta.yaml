@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276748476805243944/e657b205c5384ad6b96902a9c9076a0b/artifacts
+end_time: 1752702927155
+entry_point_name: ''
+experiment_id: '276748476805243944'
+lifecycle_stage: active
+run_id: e657b205c5384ad6b96902a9c9076a0b
+run_name: flawless-swan-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752702432050
+status: 3
+tags: []
+user_id: tawate

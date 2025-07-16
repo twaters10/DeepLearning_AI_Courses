@@ -1,0 +1,27 @@
+   | Name       | Type             | Params | Mode 
+---------------------------------------------------------
+0  | criterion  | CrossEntropyLoss | 0      | train
+1  | network    | Sequential       | 804 K  | train
+2  | network.0  | Conv2d           | 320    | train
+3  | network.1  | ReLU             | 0      | train
+4  | network.2  | Conv2d           | 18.5 K | train
+5  | network.3  | ReLU             | 0      | train
+6  | network.4  | MaxPool2d        | 0      | train
+7  | network.5  | Conv2d           | 73.9 K | train
+8  | network.6  | ReLU             | 0      | train
+9  | network.7  | Conv2d           | 295 K  | train
+10 | network.8  | ReLU             | 0      | train
+11 | network.9  | MaxPool2d        | 0      | train
+12 | network.10 | Flatten          | 0      | train
+13 | network.11 | Linear           | 401 K  | train
+14 | network.12 | ReLU             | 0      | train
+15 | network.13 | Linear           | 8.4 K  | train
+16 | network.14 | ReLU             | 0      | train
+17 | network.15 | Linear           | 6.7 K  | train
+---------------------------------------------------------
+804 K     Trainable params
+0         Non-trainable params
+804 K     Total params
+3.218     Total estimated model params size (MB)
+18        Modules in train mode
+0         Modules in eval mode

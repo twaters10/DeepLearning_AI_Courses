@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276748476805243944/a33004a985b744c4a81346a64ca9d37d/artifacts
+end_time: 1752699955346
+entry_point_name: ''
+experiment_id: '276748476805243944'
+lifecycle_stage: active
+run_id: a33004a985b744c4a81346a64ca9d37d
+run_name: sassy-gnat-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752699950256
+status: 4
+tags: []
+user_id: tawate

@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/276748476805243944/models/m-bb42e45f0103488d8d6b6cd7ca86ac48/artifacts
+creation_timestamp: 1752700603552
+experiment_id: '276748476805243944'
+last_updated_timestamp: 1752700634636
+model_id: m-bb42e45f0103488d8d6b6cd7ca86ac48
+model_type: ''
+name: emnist-letters-classifier-cnn-model
+source_run_id: 22ae1ed50d724270b87bcc67c4b1fcf6
+status: 2
+status_message: null

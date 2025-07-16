@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/276748476805243944/99cb82296f2d40d08fb2c8f1b6599b80/artifacts
+end_time: 1752699810181
+entry_point_name: ''
+experiment_id: '276748476805243944'
+lifecycle_stage: active
+run_id: 99cb82296f2d40d08fb2c8f1b6599b80
+run_name: tasteful-hen-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752699806758
+status: 4
+tags: []
+user_id: tawate
