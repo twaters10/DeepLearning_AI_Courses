@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1adedd8f718c49e4868015cad41d02b2/artifacts
+end_time: 1752760887010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1adedd8f718c49e4868015cad41d02b2
+run_name: sedate-smelt-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752760114081
+status: 3
+tags: []
+user_id: tawate

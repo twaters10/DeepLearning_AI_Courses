@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/276748476805243944/ca10b5d3fa6a4e6bb592915b98bb2af0/artifacts
+deleted_time: 1752758189572
 end_time: 1752703538260
 entry_point_name: ''
 experiment_id: '276748476805243944'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ca10b5d3fa6a4e6bb592915b98bb2af0
 run_name: smiling-lark-495
 source_name: ''

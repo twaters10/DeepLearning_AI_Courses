@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/da2789def60d45dab9f8c7f40571b822/artifacts
+end_time: 1752759331426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da2789def60d45dab9f8c7f40571b822
+run_name: popular-moose-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752758695733
+status: 3
+tags: []
+user_id: tawate

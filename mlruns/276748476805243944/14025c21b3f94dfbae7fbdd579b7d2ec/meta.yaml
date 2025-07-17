@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/276748476805243944/14025c21b3f94dfbae7fbdd579b7d2ec/artifacts
+deleted_time: 1752758204285
 end_time: 1752703538207
 entry_point_name: ''
 experiment_id: '276748476805243944'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 14025c21b3f94dfbae7fbdd579b7d2ec
 run_name: upset-pug-675
 source_name: ''

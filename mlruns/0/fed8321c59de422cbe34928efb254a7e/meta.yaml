@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fed8321c59de422cbe34928efb254a7e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fed8321c59de422cbe34928efb254a7e
+run_name: peaceful-snake-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752758143135
+status: 1
+tags: []
+user_id: tawate

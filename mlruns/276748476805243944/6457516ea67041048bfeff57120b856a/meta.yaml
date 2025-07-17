@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/276748476805243944/6457516ea67041048bfeff57120b856a/artifacts
+deleted_time: 1752758255177
 end_time: 1752699866342
 entry_point_name: ''
 experiment_id: '276748476805243944'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6457516ea67041048bfeff57120b856a
 run_name: charming-worm-784
 source_name: ''
