@@ -1,0 +1,16 @@
+together>=1.3.0
+openai>=1.40.0
+httpx>=0.27.0
+requests>=2.31.0
+ipykernel>=6.29.0
+jupyter>=1.0.0
+python-dotenv>=1.0.0
+
+# Lab3 (RAG assignment) dependencies
+numpy>=1.26.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+python-dateutil>=2.8.0
+sentence-transformers>=2.7.0
+dlai-grader>=2.0.0

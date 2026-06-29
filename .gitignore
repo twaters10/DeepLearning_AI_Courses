@@ -1,3 +1,8 @@
 mlartifacts/
 mlruns/
 .venv/
+DeeplearningAI_RAG/.venv/
+DeeplearningAI_RAG/__pycache__/
+DeeplearningAI_RAG/.env
+*.pyc
+DeeplearningAI_RAG/.ipynb_checkpoints/
