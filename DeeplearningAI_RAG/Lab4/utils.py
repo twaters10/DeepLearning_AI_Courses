@@ -14,6 +14,15 @@ from io import BytesIO
 import base64
 from together import Together
 
+# Load TOGETHER_API_KEY (and any other vars) from the project .env file if present.
+# find_dotenv() walks up from this file, so the shared .env at the repo root is found.
+# Safe no-op in the Coursera environment where python-dotenv may be absent.
+try:
+    from dotenv import load_dotenv, find_dotenv
+    load_dotenv(find_dotenv())
+except ImportError:
+    pass
+
 def get_proxy_url():
     """
     Get the proxy URL from environment variable or fall back to Together.ai endpoint.
