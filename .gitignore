@@ -7,3 +7,4 @@ DeeplearningAI_RAG/.env
 *.pyc
 DeeplearningAI_RAG/.ipynb_checkpoints/
 *.joblib
+*.pkz
