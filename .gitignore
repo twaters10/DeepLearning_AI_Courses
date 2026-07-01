@@ -8,3 +8,6 @@ DeeplearningAI_RAG/.env
 DeeplearningAI_RAG/.ipynb_checkpoints/
 *.joblib
 *.pkz
+*.csv
+*.models/
+*data/
